@@ -1,0 +1,99 @@
+body{
+    background: url('https://images.pexels.com/photos/870802/pexels-photo-870802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') ;
+color: white;
+background-size:cover;
+         width:100%;
+position: fixed;
+height: 100%;
+font-weight: 300;
+
+}
+.col-lg-offset-3{
+margin-left:35%;
+}
+
+.wrapper {
+    
+background: #50a3a2;
+
+position: absolute;
+top: 45%;
+left: 0;
+width: 30%;
+   height: 450px; 
+margin-top: -200px;
+border: 3px solid #a5eaef;
+overflow: hidden;
+padding-left: 15px;
+margin-left:35%;
+}
+h1{
+margin-left: 60px;
+}
+
+.col-md-offset-3 {
+margin-left: 25%;
+}
+.container {
+
+
+max-width: 600px;
+margin: 0 auto;
+padding: 80px 0;
+height: 400px;
+text-align: center;
+}
+
+
+form input {
+
+outline: 0;
+border: 1px solid rgba(255, 255, 255, 0.4);
+background-color: rgba(255, 255, 255, 0.2);
+width: 250px;
+border-radius: 3px;
+padding: 10px 15px;
+margin: 0 auto 10px auto;
+display: block;
+text-align: center;
+font-size: 18px;
+color: white;
+
+}
+form input:hover {
+background-color: rgba(255, 255, 255, 0.4);
+}
+form input:focus {
+background-color: white;
+}
+.loginbutton {
+
+background-color: white;
+border: 0;
+padding: 10px 15px;
+color: #53e3a6;
+border-radius: 3px;
+width: 125px;
+cursor: pointer;
+font-size: 18px;
+
+}
+form button:hover {
+background-color: #f5f7f9;
+}
+
+
+
+
+.google-button {
+height: 40px;
+border-width: 0;
+background: white;
+color: #737373;
+border-radius: 5px;
+
+padding: 0;
+margin-top: 4px;
+width: 254px;
+}
+
